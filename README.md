@@ -1,3 +1,3 @@
 # P117-18-11-2020
 
-Gencler p215 qrupu bu file yukleyib burdaki frontu ishlesin, qalanlar oz frontunu.Evden classroom linki atacam,issue ora commit edersiniz
+---Kamran mellim Sizin Yazdiqlarinizi yazdim acigi.Ama demek olarki tamda olmasa basha dushurem uje.Saat 3:20-di.Qalanini vaxt verseniz sora yazaram.Ne meseledirse eve gelende sadece iki saat dinceldikden sora dersle meshqul oluram birde ayiliramki saat 3-4 du.Ama ortadada yazdigim bir shey yoxdu:))).Sizin dediklerinizide hec vaxt yadimdan cixartmiram ki,coxlu kod yazmaq
